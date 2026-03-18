@@ -1,0 +1,31 @@
+experiences:
+
+- place: "University of Oxford"
+  time: "Oct 2025 start"
+  title: "Ph.D. Student"
+  subtitle: "Department of Materials"
+  category: "school"
+
+- place: "University of California, Berkeley"
+  time: "Jan 2025 - current"
+  title: "Visiting Student Researcher"
+  subtitle: "Department of EECS"
+  category: "job"
+
+- place: "Nankai University"
+  time: "Jan 2025 - current"
+  title: "Visiting Student Researcher"
+  subtitle: "School of Physics"
+  category: "job"
+
+- place: "University of Southern California"
+  time: "Sep 2023 - Dec 2024"
+  title: "M.S. Student"
+  subtitle: "Electric and Computer Engineering"
+  category: "school"
+
+- place: "Nankai University"
+  time: "Sep 2019 -Jul 2023"
+  title: "B.S. Student"
+  subtitle: "Physics"
+  category: "school"
